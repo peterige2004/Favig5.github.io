@@ -12,10 +12,6 @@ body{
   border-radius: 20px;
   }
 
-  #main:hover{
-    background: hsl(241, 100%, 89%);
-  }
-
   #result {
    background:  linear-gradient(180deg,  hsl(252, 100%, 67%),   hsl(241, 81%, 54%));
    width:50%;
